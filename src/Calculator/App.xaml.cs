@@ -5,6 +5,7 @@
 // App.xaml.h
 // Declaration of the App class.
 //
+// prueba action
 
 using CalculatorApp.ViewModel.Common;
 using CalculatorApp.ViewModel.Common.Automation;
